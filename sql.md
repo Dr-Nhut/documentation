@@ -1,4 +1,4 @@
-#Learn the basic
+# Learn the basic
 
 ## What Are Relational Databases?
 
@@ -26,3 +26,25 @@
   - Fixed Schema: RDBMS follows a rigid schema for data organization, which means any changes to the schema can be time-consuming and complicated.
   - Handling of Unstructured Data: RDBMSs are not suitable for handling unstructured data like multimedia files, social media posts, and sensor data, as their relational structure is optimized for structured data
   - Horizontal Scalability: RDBMSs are not as easily horizontally scalable as NoSQL databases. Scaling horizontally, which involves adding more machines to the system, can be challenging in terms of cost and complexity.
+
+# Basic SQL Syntax
+
+# Data Definition Language (DDL)
+
+# Data Manipulation Language (DML)
+
+# Aggregate Queries
+
+# Data Constraints
+
+# SQL JOIN Queries
+
+# Sub Queries
+
+## Nested Subqueries
+
+## Correlated Subqueries
+
+## Different type
+
+### Scalar
